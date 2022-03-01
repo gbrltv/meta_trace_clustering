@@ -1,0 +1,11 @@
+pandas==1.2.5
+numpy==1.22.1
+scipy==1.7.3
+tqdm==4.56.0
+scikit-learn==1.0.2
+pm4py==2.2.19
+natsort==8.1.0
+holoviews==1.14.8
+scikit-multilearn==0.2.0
+shap==0.40.0
+seaborn==0.11.1
