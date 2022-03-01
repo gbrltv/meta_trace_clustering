@@ -30,6 +30,9 @@ Finally, install the dependencies:
 python -m pip install -r requirements.txt
 ```
 
+```shell
+conda install -c conda-forge openjdk
+```
 
 ## Reproducing experiments
 
