@@ -1,6 +1,6 @@
-# AutoML code for reproducibility
+# Meta Trace Clustering code for reproducibility
 
-> This file lists the steps to reproduce the experiments, analysis and figures generated for this paper submission at the AutoML 2022 conference.
+> This file lists the steps to reproduce the experiments, analysis and figures generated for this paper submission.
 
 
 ## Contents
@@ -61,3 +61,6 @@ python analysis.py
 ```
 
 This command generates the main experiments used in the paper. The products are (i) the *analysis* folder containing the figures used in the paper and (ii) the terminal outputs listing performances and experiment details.
+
+
+**Note**: the event log collection is also available here: [Part 1](https://figshare.com/s/5486504b882a9e6cce4d), [Part 2](https://figshare.com/s/6779b5711fd17d79403d), [Part 3](https://figshare.com/s/2b12438f7b4b8e445310).
