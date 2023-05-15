@@ -1,6 +1,6 @@
-# Meta Trace Clustering code for reproducibility
+# Meta Trace Clustering for Event Logs
 
-> This file lists the steps to reproduce the experiments, analysis and figures generated for this paper submission.
+> This file lists the steps to reproduce the experiments, analysis and figures generated for the paper [Selecting Optimal Trace Clustering Pipelines with Meta-learning](https://link.springer.com/chapter/10.1007/978-3-031-21686-2_11).
 
 
 ## Contents
